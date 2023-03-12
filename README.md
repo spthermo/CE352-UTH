@@ -33,3 +33,19 @@
 Αφού δημιουργήσετε το πρώτο σας notebook μετονομάστε το σε `Assignment 1`
 
 ![image](https://user-images.githubusercontent.com/1241918/224564475-eb19f057-2f40-4154-b338-af1ea7a13619.png)
+
+Για εξοικείωση με το περιβάλλον του jupyter notebook διαβάστε το online manual [εδώ](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/examples_index.html)
+
+## Βιβλιοθήκες
+
+Τα πρώτα πακέτα που πρέπει να εγκατασταθούν αφορούν τις παρακάτω βιβλιοθήκες επεξεργασίας εικόνας και χρήσης arrays:
+* [matplotlib](https://matplotlib.org/)
+* [imageio](https://imageio.readthedocs.io/en/stable/)
+* [numpy](https://numpy.org/)
+
+## Assignment 1
+
+**Προεργασία** για το coding session:
+- Εγκατάσταση του jupyter notebook σε περιβάλλον miniconda όπως περιγράφεται παραπάνω
+- Εγκατάσταση των παραπάνω βιβλιοθηκών με χρήση του `pip` στο περιβάλλον `ece352_env`
+- Δημιουργία του πρώτου notebook και εξοικίωση με τη λογική των cells, saving και loading του notebook μέσω του online manual
